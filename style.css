@@ -1,0 +1,24 @@
+.banner{
+    background-image: url(dog.jpg);
+    height: 50px;
+    width: 100px;
+    position: top;
+    margin: auto;
+}
+.box1{
+    border-style: hidden;
+    border: 1px cornsilk;
+    max-width: max-content;
+    display: inline-block;
+}
+.box2{
+    border-style: hidden;
+    border: 1px cornsilk;
+    max-width: max-content;
+    float: right;
+    display: inline-block;
+}
+.boxtext{
+    border: 1px rosybrown;
+    display: block; 
+}
